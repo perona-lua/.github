@@ -1,5 +1,5 @@
 <h1><p align="center">Perona 👻</p></h1>
-<div align="center"><img src="docs/images/banner.gif" width="220" height=319"></img></div>
+<div align="center"><img src="../docs/images/banner.gif" width="220" height=319"></img></div>
 
 `Perona` foi criada com o intuito que qualquer pessoa consiga criar seus próprios script para Mu Online, sem a necessidade de saber sobre `Engenharia Reversa.` <br>
 O projeto inteiro foi tipado para quem possa facilitar a vida de quem for desenvolver os scripts.<br>
