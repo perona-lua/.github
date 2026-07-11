@@ -45,9 +45,6 @@ perona/
 
 Qualquer dúvida ou problema entre em nosso [discord](https://perona.fun/discord)
 
-# Functions
-- Todas as funções estão 
-
 # AVISOS
 1) Tente seguir sempre o padrão da arquitetura. Você pode criar uma pasta dentro de `Scripts` e criar seus scripts dentro dessa pasta que você criou. 
 2) Não importe os modulos padrão que estão importado em `ScriptMain.lua`. Os modulos padrão são de escopo global então não é necessário re-importar.
