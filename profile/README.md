@@ -2,7 +2,7 @@
 <div align="center"><img src="../docs/images/banner.gif" width="220" height=319"></img></div>
 
 `Perona` foi criada com o intuito que qualquer pessoa consiga criar seus próprios script para Mu Online, sem a necessidade de saber sobre `Engenharia Reversa.` <br>
-O projeto inteiro foi tipado para quem possa facilitar a vida de quem for desenvolver os scripts.<br>
+O projeto inteiro foi tipado para que possa facilitar a vida de quem for desenvolver os scripts.<br>
 Atualmente a `Perona` está na sua versão `Alpha (1.0.0)`<br>
 
 # ATENÇÃO
